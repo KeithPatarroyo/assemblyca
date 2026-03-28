@@ -1,2 +1,12 @@
-# assemblyca
-Code for the assemblyca publication in Neurips ALOE workshop
+# AssemblyCA
+
+
+
+## Getting started
+
+```
+git clone https://gitlab.com/croningroup/cheminformatics/assemblyca.git
+
+cd assemblyca
+
+git submodule add https://github.com/johnhw/hashlife
