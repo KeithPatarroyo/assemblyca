@@ -1,0 +1,34 @@
+testing
+@VERSION v5.41-ll2.5.7
+@MD5 d81a8c4d65229513525d6a5cef1c7c9d
+@ROOT test_seed
+@RULE b3s23
+@SYMMETRY octohash2obj12x12_stdin
+@NUM_SOUPS 1
+@NUM_OBJECTS 118
+
+@CENSUS TABLE
+xs4_33 32
+xp2_7 28
+xs6_696 25
+xq4_153 14
+xs5_253 7
+xs8_6996 3
+xs7_2596 3
+xs6_356 3
+xs6_39c 1
+xs6_25a4 1
+xq4_6frc 1
+
+@SAMPLE_SOUPIDS
+xs4_33 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xp2_7 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xs6_696 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xq4_153 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xs5_253 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xs8_6996 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xs7_2596 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xs6_356 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xs6_39c -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xs6_25a4 -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!
+xq4_6frc -3.A.A$4.A$A3.A$2.A2$.A2.A2$2A$A!

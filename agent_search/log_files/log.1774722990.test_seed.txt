@@ -1,0 +1,18 @@
+testing
+@VERSION v5.41-ll2.5.7
+@MD5 d81a8c4d65229513525d6a5cef1c7c9d
+@ROOT test_seed
+@RULE b3s23
+@SYMMETRY octohash2obj12x12_stdin
+@NUM_SOUPS 1
+@NUM_OBJECTS 5
+
+@CENSUS TABLE
+xp2_7 3
+xs6_696 1
+xs4_252 1
+
+@SAMPLE_SOUPIDS
+xp2_7 -3A$.A$A$A.A$.2A.A$3.2A$3.A.A$4.A.A!
+xs6_696 -3A$.A$A$A.A$.2A.A$3.2A$3.A.A$4.A.A!
+xs4_252 -3A$.A$A$A.A$.2A.A$3.2A$3.A.A$4.A.A!

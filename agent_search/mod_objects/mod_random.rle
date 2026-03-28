@@ -1,0 +1,4 @@
+#CLL state-numbering golly
+x = 15, y = 15, rule = B3/S23
+A2$6.A3$13.A$9.A4$8.A.2A$9.A$12.A$3.A.A2.2A4.A$.2A!
+

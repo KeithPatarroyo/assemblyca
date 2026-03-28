@@ -1,0 +1,12 @@
+testing
+@VERSION v5.41-ll2.5.7
+@MD5 4745abc30a4c8ee10abb04b718aa038a
+@ROOT k_QbNpBvkB5swv
+@RULE b3s23
+@SYMMETRY octohash2obj12x12_stdin
+@NUM_SOUPS 0
+@NUM_OBJECTS 0
+
+@CENSUS TABLE
+
+@SAMPLE_SOUPIDS

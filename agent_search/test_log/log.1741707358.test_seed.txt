@@ -1,0 +1,18 @@
+testing
+@VERSION v5.41-ll2.5.7
+@MD5 d81a8c4d65229513525d6a5cef1c7c9d
+@ROOT test_seed
+@RULE b3s23
+@SYMMETRY gitlab_stdin_test
+@NUM_SOUPS 1
+@NUM_OBJECTS 6
+
+@CENSUS TABLE
+xs6_696 3
+xs4_33 2
+xp2_7 1
+
+@SAMPLE_SOUPIDS
+xs6_696 -2o2b2o2b2o2bob2o2b2o$b2o4bo2b2obobobob2o$12obob3o$obo2bobob4o2b3o2bo$-2o3bo2b2o4bo3b3o$3o2b3o5bob2o2b2o$o2b2obob5o2bo2bo$2b6ob9o2bo$3bobo4b-ob3obo$o3b2ob2obobo2bo2b3o$3obobo6bob2ob2o$2bo4bobobob2o2b3o$2bo2b4ob-2obo4bo$2b2o2b5obob2obo$3b3o2bob2obo5b2o$2obobobo5b2o4bo$b5ob3o2bo2b4o-$2obo2b7ob4o$b5o2b4ob2o2b2obo!
+xs4_33 -2o2b2o2b2o2bob2o2b2o$b2o4bo2b2obobobob2o$12obob3o$obo2bobob4o2b3o2bo$-2o3bo2b2o4bo3b3o$3o2b3o5bob2o2b2o$o2b2obob5o2bo2bo$2b6ob9o2bo$3bobo4b-ob3obo$o3b2ob2obobo2bo2b3o$3obobo6bob2ob2o$2bo4bobobob2o2b3o$2bo2b4ob-2obo4bo$2b2o2b5obob2obo$3b3o2bob2obo5b2o$2obobobo5b2o4bo$b5ob3o2bo2b4o-$2obo2b7ob4o$b5o2b4ob2o2b2obo!
+xp2_7 -2o2b2o2b2o2bob2o2b2o$b2o4bo2b2obobobob2o$12obob3o$obo2bobob4o2b3o2bo$-2o3bo2b2o4bo3b3o$3o2b3o5bob2o2b2o$o2b2obob5o2bo2bo$2b6ob9o2bo$3bobo4b-ob3obo$o3b2ob2obobo2bo2b3o$3obobo6bob2ob2o$2bo4bobobob2o2b3o$2bo2b4ob-2obo4bo$2b2o2b5obob2obo$3b3o2bob2obo5b2o$2obobobo5b2o4bo$b5ob3o2bo2b4o-$2obo2b7ob4o$b5o2b4ob2o2b2obo!

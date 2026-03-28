@@ -1,0 +1,6 @@
+[submodule "hashlife"]
+	path = hashlife
+	url = https://github.com/johnhw/hashlife
+[submodule "apgmera"]
+	path = apgmera
+	url = https://gitlab.com/apgoucher/apgmera
