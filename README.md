@@ -34,7 +34,7 @@ The benchmark uses data collected up to **2023**, drawing from the Game of Life 
 - **Benchmark across three exploration regimes** — random soups, community-discovered patterns, and algorithmic agents
 - **Assembly Theory metric as an open-endedness metric** — captures selection and historical contingency beyond entropy
 - **Analysis of Game of Life Patterns**, iconic Game of Life patterns (gliders, guns, breeders, oscillators), soup searches from Catagolue and culturally significant structures from LifeWiki (up to 2023)
-- **Agent-based search** for high-assembly CA objects by agents querying a library
+- **Agent-based search** for finding high-assembly CA objects by agents querying a library
 
 ---
 
@@ -70,11 +70,11 @@ The notebook walks through:
 
 1. **Hash Assembly algorithm** — definition and implementation
 2. **CA analysis** — assembly index across different CA rules, 1D,2D,3D with different rules and neighborhoods
-3. **Benchmarking** — comparison of hash assembly against the exact assembly index
+3. **Benchmarking** — comparison of hash assembly against the exact assembly index and entropy
 4. **Game of Life patterns** — assembly of gliders, guns, oscillators, and breeders
 5. **Soup Search Experiments** — assembly complexity of soup Experiments (up to 2023)
 6. **Cultural patterns** — assembly complexity of Wikipedia structures over time (up to 2023)
-7. **Agent search** — searching CA rule spaces for high-assembly objects
+7. **Agent search** — searching CA high-assembly objects by agents querying a library
 
 
 ---
@@ -87,6 +87,7 @@ assemblyca/
 ├── assemblyca_tools.py       # Core library: hash assembly, CA tools, plotting
 ├── hashlife/                 # Hashlife submodule (fast CA simulation)
 ├── agent_search/             # Agent-based search for high-assembly CA objects
+├── apgmera/                  # apgmera submodule (finding patterns in long simulations)
 ├── benchmark_data/           # Benchmarking results vs. exact assembly index
 ├── rle_files/                # Game of Life patterns (RLE format)
 ├── rule_files/               # CA rule tables
