@@ -40,7 +40,7 @@ The benchmark uses data collected up to **2023**, drawing from the Game of Life 
 
 ## Installation
 
-**Requirements:** Python 3.8+
+**Requirements:** Python 3.10+
 
 1. Clone the repository and its submodules:
 
